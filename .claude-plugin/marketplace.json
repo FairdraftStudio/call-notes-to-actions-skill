@@ -1,0 +1,15 @@
+{
+  "name": "fairdraft-studio",
+  "description": "Free Claude skills from Fairdraft Studio for freelancers and small agencies.",
+  "owner": {
+    "name": "Fairdraft Studio",
+    "url": "https://github.com/FairdraftStudio"
+  },
+  "plugins": [
+    {
+      "name": "call-notes-to-actions",
+      "source": "./plugins/call-notes-to-actions",
+      "description": "Turn meeting transcripts or notes into decisions, an action table with owners and due dates, and a follow-up email."
+    }
+  ]
+}

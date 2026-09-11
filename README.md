@@ -18,8 +18,14 @@ See [`example/`](example/) for a real input and output.
 1. Settings > Capabilities: turn on **Code execution and file creation**.
 2. Customize > Skills > **Upload skill**, then choose `call-notes-to-actions.zip` from this repo.
 
-**Claude Code**
-Copy the `call-notes-to-actions` folder into `~/.claude/skills/` (Windows: `%USERPROFILE%\.claude\skills\`) and restart Claude Code.
+**Claude Code (plugin, recommended)**
+```
+/plugin marketplace add FairdraftStudio/call-notes-to-actions-skill
+/plugin install call-notes-to-actions@fairdraft-studio
+```
+
+**Claude Code (manual)**
+Copy the `plugins/call-notes-to-actions/skills/call-notes-to-actions` folder into `~/.claude/skills/` (Windows: `%USERPROFILE%\.claude\skills\`) and restart Claude Code.
 
 ## Use
 

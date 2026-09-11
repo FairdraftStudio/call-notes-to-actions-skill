@@ -1,0 +1,13 @@
+{
+  "name": "call-notes-to-actions",
+  "version": "1.0.0",
+  "description": "Turn meeting transcripts or notes into decisions, an action table with owners and due dates, and a follow-up email.",
+  "author": {
+    "name": "Fairdraft Studio",
+    "url": "https://github.com/FairdraftStudio"
+  },
+  "homepage": "https://github.com/FairdraftStudio/call-notes-to-actions-skill",
+  "repository": "https://github.com/FairdraftStudio/call-notes-to-actions-skill",
+  "license": "MIT",
+  "keywords": ["meeting-notes", "action-items", "follow-up-email", "productivity", "freelancers"]
+}
