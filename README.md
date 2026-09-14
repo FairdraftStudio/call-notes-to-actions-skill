@@ -31,6 +31,10 @@ Copy the `plugins/call-notes-to-actions/skills/call-notes-to-actions` folder int
 
 > "Summarise this call and draft the follow-up email." *(paste the transcript)*
 
+## How it was designed
+
+A write-up of the design decisions (the description field, the "(proposed)" and "TBD" rules, the self-check list): [How I designed a Claude skill that turns call notes into action items](https://dev.to/fairdraftstudio/how-i-designed-a-claude-skill-that-turns-call-notes-into-action-items-146e) on DEV.
+
 ## Want the rest of the paperwork done too?
 
 This skill is part of the **Client-Ops Kit** for freelancers and small agencies: proposals with 3-tier pricing, scopes of work, client status reports, and late-invoice follow-ups, as Claude skills plus editable Word/Google Docs templates.
