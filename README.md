@@ -10,7 +10,7 @@ Paste a meeting transcript or rough notes. Get back:
 
 It never invents owners or dates: anything implied is marked **(proposed)**, and vague "we should look into…" ideas become actions with owner **TBD** so they don't get lost.
 
-See [`example/`](example/) for a real input and output.
+See [`example/`](example/) for a worked example: a sample transcript and the full output.
 
 ## Install
 
